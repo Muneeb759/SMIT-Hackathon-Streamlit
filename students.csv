@@ -1,0 +1,4 @@
+student_id,name,age,grade,email,phone,courses
+S001,Muneeb Chandio,21,A,Chandio@gmail.com,0336-1026222,"Artificial Intelligence, Data Science, Python"
+S002,Muneeb Chandio,21,A,Chandio@gmail.com,0336-1026222,"Artificial Intelligence, Data Science, Python"
+S004,Muneeb,21,A,Muneeb-test-save-csv@gmail.com,0336-1231231,"React, JavaScript, TypeScript"

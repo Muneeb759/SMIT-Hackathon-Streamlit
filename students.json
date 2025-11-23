@@ -1,0 +1,84 @@
+{
+    "S001": {
+        "student_id": "S001",
+        "name": "Ali Ahmed",
+        "age": 21,
+        "grade": "A",
+        "email": "ali.ahmed@email.com",
+        "phone": "0300-12345612",
+        "courses": [
+            "Mathematics",
+            "Physics",
+            "Computer Science"
+        ],
+        "attendance": 95.5
+    },
+    "S002": {
+        "student_id": "S002",
+        "name": "Fatima Khan",
+        "age": 19,
+        "grade": "B",
+        "email": "fatima.khan@email.com",
+        "phone": "0301-2345673",
+        "courses": [
+            "Chemistry",
+            "Biology",
+            "English"
+        ],
+        "attendance": 88.0
+    },
+    "S003": {
+        "student_id": "S003",
+        "name": "Hassan Ali",
+        "age": 21,
+        "grade": "E",
+        "email": "hassan.ali@email.com",
+        "phone": "0302-3456789",
+        "courses": [
+            "Computer Science",
+            "Mathematics",
+            "Data Structures"
+        ],
+        "attendance": 75.0
+    },
+    "S005": {
+        "student_id": "S005",
+        "name": "Usman Tariq",
+        "age": 22,
+        "grade": "C",
+        "email": "usman.tariq@email.com",
+        "phone": "0304-5678901",
+        "courses": [
+            "Physics",
+            "Chemistry",
+            "Mathematics"
+        ],
+        "attendance": 68.5
+    },
+    "123": {
+        "student_id": "123",
+        "name": "Muhammad Muneeb",
+        "age": 21,
+        "grade": "A",
+        "email": "Muneeb@gmail.com",
+        "phone": "033316206488",
+        "courses": [
+            "Python",
+            "React",
+            "FastAPI"
+        ],
+        "attendance": 100.0
+    },
+    "1001": {
+        "student_id": "1001",
+        "name": "ahmed raza22",
+        "age": 21,
+        "grade": "A",
+        "email": "ahmedraza@gmal9i.com",
+        "phone": "0202020202002020200",
+        "courses": [
+            "python"
+        ],
+        "attendance": 100.0
+    }
+}
